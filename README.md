@@ -38,9 +38,8 @@ The model is trained using the 190K Spam-Ham Email Dataset from Kaggle, containi
 This system demonstrates an effective way to detect spam emails using machine learning, with a focus on model performance through stacking ensemble techniques.
 
 ## Authors:
-- Naisargi Sharma (100868470)
-- Vandan Patel (100865552)
-- Yash Sanklecha (100816558)
+- Vandan Patel 
+
 
 ## References:
 - Tusher, E. H., et al. (2024). *Email Spam: A Comprehensive Review of Optimized Detection Methods, Challenges, and Open Research Problems*. IEEE Access.
